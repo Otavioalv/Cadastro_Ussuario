@@ -8,8 +8,8 @@ var bodyParser = require('body-parser');
 
 router.get('/', function(req, res, nex){
     res.render(
-        'sample_render', {
-            title: 'node ajax CRUD'
+        'sample_data', {
+            title: 'Ussuarios'
         }
     )
 });
