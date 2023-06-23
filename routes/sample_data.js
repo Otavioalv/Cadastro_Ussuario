@@ -9,7 +9,7 @@ var bodyParser = require('body-parser');
 router.get('/', function(req, res, nex){
     res.render(
         'sample_data', {
-            title: 'Ussuarios'
+            title: 'Usuarios'
         }
     )
 });
@@ -26,6 +26,6 @@ router.post("/action", function(req, res, nex){
             data: data
         });
     });
-})
+});
 
 module.exports = router;
