@@ -17,7 +17,7 @@
             <div>
                 <p>No arquivo <b>database.js</b> coloque as informações do servidor MySql para o funcionamento do Cadastro</p>
 
-![Alt text](image.png)
+![image](https://github.com/Otavioalv/Cadastro_Ussuario/assets/107057360/3b15da62-a8a2-4187-8099-39b8b75ff8e9)
             </div>
         </li>
         <ul>
