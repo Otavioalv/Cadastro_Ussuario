@@ -1,12 +1,4 @@
 <h1>Cadastro ussuario</h1>
-<div>
-    <p>
-    <h3>Durante o desenvolvimento do projeto de cadastro de usuário para o estágio, eu inicialmente planejava implementar o CRUD usando AJAX para melhorar a experiência do usuário. No entanto, durante a fase de pesquisa e desenvolvimento, encontrei uma escassez de recursos e informações suficientes para prosseguir com a implementação do AJAX no contexto específico do projeto.
-    Embora eu tenha investido tempo considerável pesquisando e tentando encontrar soluções, a complexidade da integração AJAX com o back-end e as limitações de tempo para conclusão do projeto me levaram a optar por uma abordagem alternativa, sem a utilização de AJAX.
-    Em vez disso, optei por utilizar tecnologias como Node.js e Express.js para criar as rotas e o servidor, além do MySql para armazenar os dados dos usuários. Foi desenvolvido um cadastro de usuário funcional com as operações CRUD básicas.
-    Apesar de não ter implementado a funcionalidade específica do AJAX, estou confiante em minha capacidade de aprender e adaptar tecnologias e frameworks adicionais conforme necessário, caso seja uma exigência para o cargo de estágio. Estou comprometido em continuar expandindo meu conhecimento e habilidades na área da programação. Alem disso tem uma branch com uma pequena parte das minhas tentativa com AJAX</h3>
-    </p>
-</div>
 
 <div>
     <h1>Como iniciar o Cadastro</h1>
